@@ -8,7 +8,7 @@ My name is Iurii Polnikov and I'm Beginner Python Developer from Saint-Petersbur
 [![Telegram Badge](https://img.shields.io/badge/Telegram-@akudja-informational?style=flat&logo=logoColor=white&color=1CA2F1)](https://t.me/akudja)
 [![Codewars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=logoColor=white&color=red)](https://t.me/akudja)
 
-### &#x1f4c8; GitHub Stats
+### GitHub Stats
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=polnikov&show_icons=true&count_private=true&">
      <img height=150 src="https://github-readme-stats.vercel.app/api?username=polnikov&show_icons=true&count_private=true"/>
