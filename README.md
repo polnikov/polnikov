@@ -19,8 +19,8 @@ My name is Iurii Polnikov and I'm Beginner Python Developer from Saint-Petersbur
   </a>
 </p>
 
-:heavy_check_mark: View my verified achievement from Python Institute.
-[click](https://www.credly.com/badges/d2216872-e1d4-4af0-bd94-54abda90bd48/linked_in)
+:heavy_check_mark: View my verified achievement from Python Institute :arrow_right: [click](https://www.credly.com/badges/d2216872-e1d4-4af0-bd94-54abda90bd48/linked_in)
+
 <p align="center">
-![PCAP-31-03](https://github.com/polnikov/polnikov.github.io/blob/main/doc/certificates/%5BPCAP-31-03%5D%20PCAP%20%E2%80%93%20Certified%20Associate%20in%20Python%20Programming.png =200x200)
+  <img src="https://github.com/polnikov/polnikov.github.io/blob/main/doc/certificates/%5BPCAP-31-03%5D%20PCAP%20%E2%80%93%20Certified%20Associate%20in%20Python%20Programming.png" width="200" height="200" />
 </p>
