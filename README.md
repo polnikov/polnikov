@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is Iurii Polnikov and I'm Beginner Python Developer from Saint-Petersburg!
+My name is Iurii Polnikov and I'm Python Developer from Saint-Petersburg!
 
 [![HitCount](https://hits.dwyl.com/polnikov/polnikov.svg?style=flat)](http://hits.dwyl.com/polnikov/polnikov)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/polnikov)
