@@ -3,7 +3,7 @@
 My name is Iurii Polnikov and I'm Python Developer from Saint-Petersburg!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/polnikov)
-[![CV Badge](https://img.shields.io/badge/CV-Profile-informational?style=flat&logo=github&logoColor=white&color=1CA2F1)]([https://polnikov.github.io/](https://1drv.ms/b/s!AkiJtmg1WRG2tkrdsmvyqSC8C9hx?e=h7Q9Od))
+[![CV Badge](https://img.shields.io/badge/CV-Profile-informational?style=flat&logo=github&logoColor=white&color=1CA2F1)](https://1drv.ms/b/s!AkiJtmg1WRG2tkrdsmvyqSC8C9hx?e=h7Q9Od)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-@akudja-informational?style=flat&logo=logoColor=white&color=1CA2F1)](https://t.me/akudja)
 [![Codewars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=logoColor=white&color=red)](https://www.codewars.com/users/IuriiPolnikov)
 
